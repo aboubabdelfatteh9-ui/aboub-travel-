@@ -1,0 +1,6 @@
+{
+  "name": "وكالة عبعوب للسياحة والأسفار",
+  "description": "الموقع الرسمي لوكالة عبعوب للسياحة والأسفار لحجوزات الفنادق، الطيران، التأشيرات والرحلات السياحية الممتعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

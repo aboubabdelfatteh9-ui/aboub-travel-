@@ -1,0 +1,312 @@
+[
+  {
+    "id": "istanbul",
+    "category": "intl",
+    "titleAr": "برنامج إسطنبول المتكامل الفاخر",
+    "titleFr": "Programme Istanbul Tout Compris de Luxe",
+    "titleEn": "Istanbul Premium Full Experience",
+    "descAr": "سحر الشرق يلاقي الطراز الأوروبي الحديث في إسطنبول. استمتع بجولات البوسفور المائية، جزر الأميرات المعلقة، والمعالم التاريخية الإسلامية البديعة عائلياً.",
+    "descFr": "Le charme de l'Orient s'associe au style moderne européen à Istanbul. Profitez des excursions sur le Bosphore, des îles des Princes et des monuments historiques.",
+    "descEn": "The charm of the Orient meets modern European style in Istanbul. Enjoy Bosphorus boat tours, the Prince Islands, and breathtaking Islamic heritage.",
+    "price": 129000,
+    "hotelAr": "My Assos Hotel Istanbul (★4)",
+    "hotelFr": "My Assos Hotel Istanbul (★4)",
+    "hotelEn": "My Assos Hotel Istanbul (★4)",
+    "durationAr": "8 أيام / 7 ليالٍ",
+    "durationFr": "8 Jours / 7 Nuits",
+    "durationEn": "8 Days / 7 Nights",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+    "badge1Ar": "🇹🇷 تركيا - عطلة الأحلام العائلية",
+    "badge1Fr": "🇹🇷 Turquie - Vacances de rêve",
+    "badge1En": "🇹🇷 Turkey - Dream Family Vacation",
+    "badge2Ar": "✈️ طيران تركي فاخر مُباشر",
+    "badge2Fr": "✈️ Vol turc direct",
+    "badge2En": "✈️ Direct Turkish flight",
+    "includedAr": [
+      "✔ السفر ذهاباً وإياباً عبر الخطوط الجوية التركية.",
+      "✔ الإقامة المريحة لمدة 7 ليالي في فندق My Assos Hotel Istanbul (4 نجوم).",
+      "✔ استقبال وتوصيل مريح ومؤمن من وإلى المطار.",
+      "✔ دليل ومرافق سياحي كفء وناطق باللغة العربية.",
+      "✔ برنامج للخرجات والجولات اليومية طيلة فترة الإقامة."
+    ],
+    "includedFr": [
+      "✔ Vol aller-retour via Turkish Airlines.",
+      "✔ Hébergement confortable de 7 nuits à My Assos Hotel Istanbul (4★).",
+      "✔ Transferts aéroport sécurisés et confortables.",
+      "✔ Guide touristique bilingue qualifié.",
+      "✔ Programme complet d'excursions quotidiennes."
+    ],
+    "includedEn": [
+      "✔ Round-trip travel via Turkish Airlines.",
+      "✔ 7-night comfortable stay at My Assos Hotel Istanbul (4★).",
+      "✔ Secure and comfortable airport transfers.",
+      "✔ Arabic/Bilingual professional tour guide.",
+      "✔ Rich daily excursions throughout the stay."
+    ],
+    "program": [
+      { "t": "زيارة معالم إسطنبول التاريخية", "d": "التعرف على أهم المعالم التاريخية كمسجد السلطان أحمد (الجامع الأزرق)، آيا صوفيا العظيم والميدان التاريخي الرائع." },
+      { "t": "رحلة جزيرة الأميرات البديعة (هدية مجانية 🎁)", "d": "جولة بحرية ساحرة واكتشاف جزيرة الأميرات الكبرى واستنشاق هوائها المنعش، مع توفير غداء مميز ولذيذ بالفوج." },
+      { "t": "سهرة البوسفور البحرية المميزة (هدية مجانية 🎁)", "d": "سهرة عشاء فاخرة ومنوعة على متن باخرة في مضيق البوسفور المهيب مع فقرات وعروض فلكلورية وتراثية مذهلة." },
+      { "t": "تلفريك وتلة بيير لوتي ومدينة الألعاب (اختياري)", "d": "الصعود بالتلفريك لمشاهدة القرن الذهبي من قمة تلة بيير لوتي الرائعة، مع خيار الدخول لمدينة الملاهي الكبرى." },
+      { "t": "التسوق الممتع في أشهر أسواق إسطنبول", "d": "زيارة المولات الفاخرة والأسواق التاريخية الأكثر شعبية (بازار جراند التاريخي، السوق المصري للتوابل، ومحلات الاستقراء)." }
+    ],
+    "regNotesAr": "🛫 <b>تاريخ الانطلاق المحدد:</b> 26 جوان. المقاعد المطلوبة محدودة للغاية للفوج لضمان الجودة العالية للمتابعة.<br/>🏢 <b>مقر التسجيل:</b> التسجيل يكون عبر الاتصال المباشر بدعم الوكالة وتنسيق الأوراق وجوازات السفر."
+  },
+  {
+    "id": "tunisia",
+    "category": "intl",
+    "titleAr": "رحلة تونس الساحرة (سوسة والحمامات)",
+    "titleFr": "Séjour Perle de la Tunisie (Sousse & Hammamet)",
+    "titleEn": "Charming Tunisia (Sousse & Hammamet) Stay",
+    "descAr": "استمتع بشواطئ سوسة الخلابة والقرطاجية الأثرية ونادي الحمامات الصيفي الترفيهي الممتع بسكن عائلي راقٍ وقريب جداً من المعالم والخدمات.",
+    "descFr": "Profitez de plages de Sousse, de ruines historiques et du complexe de Hammamet dans une résidence familiale proche de tout.",
+    "descEn": "Enjoy the gorgeous beaches of Sousse, Roman ruins, and leisure parks in Hammamet, with highly safe local accommodations.",
+    "price": 24000,
+    "hotelAr": "شقق عائلية عصرية مجهزة",
+    "hotelFr": "Résidences familiales modernes équipées",
+    "hotelEn": "Furnished modern family apartments",
+    "durationAr": "7 أيام / 6 ليالٍ",
+    "durationFr": "7 Jours / 6 Nuits",
+    "durationEn": "7 Days / 6 Nights",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+    "badge1Ar": "🇹🇳 تونس الخضراء الاستجمامية",
+    "badge1Fr": "🇹🇳 Tunisie Verte - Détente",
+    "badge1En": "🇹🇳 Green Tunisia Resort Stay",
+    "badge2Ar": "🚌 نقل سياحي داخلي ومريح",
+    "badge2Fr": "🚌 Bus touristique confortable",
+    "badge2En": "🚌 Comfortable direct shuttle",
+    "includedAr": [
+      "✔ النقل ذهاباً وإياباً في حافلات سياحية متكاملة التكييف.",
+      "✔ التنقل المريح والمرن بين مختلف الولايات التونسية.",
+      "✔ السكن في شقق عائلية مجهة، مكيفة وقريبة من المرافق والشط.",
+      "✔ الجولات السياحية والترفيهية المميزة طيلة مدة الرحلة.",
+      "✔ مرشد ومرافق سياحي حريص ومتواجد طيلة السفر.",
+      "✔ تأمين صحي شامل ومؤمن طيلة السفرية."
+    ],
+    "includedFr": [
+      "✔ Aller-retour en bus touristiques de luxe climatisés.",
+      "✔ Déplacements fluides entre les différentes villes tunisiennes.",
+      "✔ Hébergement en appartements de standing climatisés proches de la plage.",
+      "✔ Excursions et sorties guidées exceptionnelles.",
+      "✔ Guide touristique dévoué à votre écoute.",
+      "✔ Assurance voyage de santé complète incluse."
+    ],
+    "includedEn": [
+      "✔ Ground travel via premium AC tourist shuttles.",
+      "✔ Fluid transfers between dynamic Tunisian cities.",
+      "✔ Family apartment rentals near beach and services.",
+      "✔ Guided tours and fun activities during the stay.",
+      "✔ Caring, multilingual professional guides.",
+      "✔ Full travel health insurance coverage."
+    ],
+    "program": [
+      { "t": "زيارة معالم سوسة واستكشاف المدينة", "d": "التعرف على أهم المعالم السياحية بمدينة سوسة (وسط المدينة والمدينة العتيقة الأثرية وكورنيش بوجعفر الرائع)." },
+      { "t": "ميناء وسهرات منتزه القنطاوي (هدية مجانية 🎁)", "d": "زيارة ميناء القنطاوي البحري 🛥️ والتمتع بالسهرات الليلية الشاعرية والاسترخاء في منتزه القنطاوي بارك لغرس البهجة 🎡🎠." },
+      { "t": "مغامرة باخرة القراصنة (اختياري)", "d": "رحلة بحرية ممتعة للغاية في عرض البحر على متن باخرة القراصنة مع فقرات ترفيهية ووجبة غداء ممتازة." },
+      { "t": "زيارة المنستير العريقة (هدية مجانية 🎁)", "d": "جولة متميزة لرؤية مدينة المنستير التاريخية والتعرف على معالمها الأثرية الفريدة ومينائها القديم." },
+      { "t": "زيارة تونس العاصمة العتيقة (اختياري)", "d": "رحلة استكشاف لقلب العاصمة تونس للتجول في أسواقها العريقة، واقتناء المنتجات اليدوية التونسية." },
+      { "t": "زيارة مدينة الحمامات الساحلية (هدية مجانية 🎁)", "d": "جولة ممتعة لاكتشاف خليج مدينة الحمامات الساحرة، شطوطها وأسوارها الأثرية المطلة مباشرة على البحر." },
+      { "t": "قرطاج لاند الترفيهية (اختياري)", "d": "الدخول وقضاء أمتع الأوقات الحماسية في مدينة الألعاب المائية والترفيهية العائلية قرطاج لاند بالحمامات 🎡." },
+      { "t": "مدينة القيروان العريقة والحلويات", "d": "زيارة مدينة القيروان التاريخية العظيمة وشراء المقروض التونسي والحلويات التقليدية من أشهر المحلات." }
+    ],
+    "regNotesAr": "🏢 <b>لأصحاب ولاية تقرت والحمّام:</b> التسجيل يكون عبر القدوم المباشر لمقر الوكالة بتبسبست (تقرت).<br/>📲 <b>لأصحاب الولايات الأخرى:</b> التسجيل سهل وسريع عن طريق إرسال الأوراق فوراً عبر تطبيق الواتساب.<br/>🚌 <b>نقطة الانطلاق:</b> الانطلاق يكون من مقر وكالة عبعوب خلف بلدية تبسبست بـ (تقرت)، مروراً بوادي سوف المشرق باتجاه تونس 🇹🇳.<br/>📄 <b>الوثائق المطلوبة للتسجيل:</b> نسخة طبق الأصل واضحة من جواز السفر الساري المفعول."
+  },
+  {
+    "id": "soviva",
+    "category": "intl",
+    "titleAr": "رحلة منتجع Soviva Resort بسوسة",
+    "titleFr": "Voyage Soviva Resort Hôtel de Luxe",
+    "titleEn": "Soviva Resort (4★) Sousse Stay",
+    "descAr": "بفخر نضع عائلتكم في أفخم منتصف إقامة (بوفيه فطور وعشاء مفتوح يومياً) مع ولوج مجاني ترفيهي لأكبر برك مائية مزودة بزحليقات وألعاب عملاقة بسوسة.",
+    "descFr": "Nous vous proposons une demi-pension prestigieuse avec accès illimité au plus grand parc aquatique hôtel de Sousse.",
+    "descEn": "Treat your family to a half-board luxury stay (buffet breakfast & dinner daily) with unlimited access to the giant water slides.",
+    "price": 45000,
+    "hotelAr": "Soviva Resort (★4)",
+    "hotelFr": "Soviva Resort (★4)",
+    "hotelEn": "Soviva Resort (★4)",
+    "durationAr": "7 أيام / 6 ليالٍ",
+    "durationFr": "7 Jours / 6 Nuits",
+    "durationEn": "7 Days / 6 Nights",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+    "badge1Ar": "🇹🇳 العرض الفاخر ذو النصف إقامة",
+    "badge1Fr": "🇹🇳 Formule Demi-Pension de Luxe",
+    "badge1En": "🇹🇳 Premium Half-Board Buffet Ofer",
+    "badge2Ar": "🌊 منتجع مائي 4 نجوم فخم",
+    "badge2Fr": "🌊 Complexe Aquatique 4★",
+    "badge2En": "🌊 Luxury 4★ Aqua Park Resort",
+    "includedAr": [
+      "✔ الإقامة الفندقية الراقية لمدة 6 ليالي / 7 أيام في فندق Soviva Resort.",
+      "✔ نظام الوجبات المتنوعة (فطور صباح لذيذ وعشاء يومي).",
+      "✔ التنقل بسيارة خاصة مريحة ومكيفة طوال مدة السفر بين المعالم.",
+      "✔ الاستمتاع ببرك السباحة العملاقة والألعاب المائية (Mini Aqua Park)."
+    ],
+    "includedFr": [
+      "✔ Hébergement de prestige de 6 nuits / 7 jours à l'hôtel Soviva Resort.",
+      "✔ Système de repas de demi-pension (petit-déjeuner copieux + dîner par jour).",
+      "✔ Transport privé tout confort climatisé durant tout le séjour.",
+      "✔ Accès libre aux piscines géantes et jeux (Mini Aqua Park)."
+    ],
+    "includedEn": [
+      "✔ 6-night standard accommodation at premium Soviva Resort (4★).",
+      "✔ Half-board dynamic meals (continental breakfast & open dinner buffet).",
+      "✔ Transfers via private private modern AC sedan car.",
+      "✔ Unlimited entry to giant slides and pools (Aqua Park)."
+    ],
+    "program": [
+      { "t": "الفندق والراحة الفوق ممتازة", "d": "Soviva Resort – سوسة / القنطاوي، فندق عائلي مميز ببرك سباحة عملاقة وأنشطة ترفيهية للأطفال والشباب." },
+      { "t": "الإقامة الراقية ونظام الوجبات بوفيه مفتوح", "d": "نصف إقامة شاملة (فطور صباح لذيذ ومليء بالخيارات المتنوعة + وجبة عشاء فاخرة يومياً)." },
+      { "t": "النقل والخصوصية الفائقة للعائلات", "d": "التنقل بسيارة خاصة مريحة ومكيفة طوال الرحلة لضمان الخصوصية والراحة القصوى لعائلتكم." },
+      { "t": "الموقع الاستراتيجي في قلب الحركة", "d": "قريب جداً من شاطئ البحر، وقريب من مدينة الألعاب الكبرى، متواجد في أنشط منطقة سياحية تتوفر على كل مستلزمات العائلات والشباب." }
+    ],
+    "regNotesAr": "⚠️ <b>عرض حصري ومحدود للغاية:</b> الحجز يكون مسبقاً طيلة فترة الصيف لشهر جويلية لتأكيد توافر الغرف.<br/>📲 <b>الحجز السريع:</b> يمكنك زيارتنا مباشرة في الوكالة خلف بلدية تبسبست أو التسجيل معكم عبر الواتساب مباشرة."
+  },
+  {
+    "id": "egypt",
+    "category": "intl",
+    "titleAr": "رحلة الأحلام إلى شرم الشيخ – مصر 🇪🇬",
+    "titleFr": "Séjour de Rêve Sharm El-Sheikh Égypte",
+    "titleEn": "Sharm El-Sheikh Red Sea Dream Stay",
+    "descAr": "انضموا إلينا في رحلة الأحلام لأجمل شواطئ البحر الأحمر مع إقامة مريحة في فندق ذو 4 نجوم مع كامل الوجبات والمشروبات (All Inclusive) وخرجات وجولات ترفيهية ممتازة.",
+    "descFr": "Envolez-vous vers les plages magiques de la Mer Rouge avec formule All Inclusive et excursions incluses dans un resort 4★.",
+    "descEn": "Join us on a dream tour to the beautiful Red Sea coral reef beaches! Relax in a 4★ resort with full board & drinks (All-Inclusive).",
+    "price": 199000,
+    "hotelAr": "Parrotel Aqua Park Resort (★4)",
+    "hotelFr": "Parrotel Aqua Park Resort (★4)",
+    "hotelEn": "Parrotel Aqua Park Resort (★4)",
+    "durationAr": "10 أيام / 9 ليالٍ",
+    "durationFr": "10 Jours / 9 Nuits",
+    "durationEn": "10 Days / 9 Nights",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+    "badge1Ar": "🇪🇬 عطلة شرم الشيخ الأسطورية",
+    "badge1Fr": "🇪🇬 Vacances Légendaires Sharm",
+    "badge1En": "🇪🇬 Legendary Sharm El Sheikh Flight",
+    "badge2Ar": "🌴 صيف 2026 – نظام الإقامة الكاملة 🍽️",
+    "badge2Fr": "🌴 Été 2026 - Pension Complète 🍽️",
+    "badge2En": "🌴 Summer 2026 - All-Inclusive Board 🍽️",
+    "includedAr": [
+      "✔ تذاكر الطيران ذهاب وإياب مع تسيير أمتعة مؤمن.",
+      "✔ مبيت 9 ليالٍ في فندق Parrotel Aqua Park Resort الشامل.",
+      "✔ وجبات فطور، غداء، عشاء بوفيه مفتوح مع المشروبات والحلويات مجاناً.",
+      "✔ استقبال وحراسة وتوصيلات المطار مكيفة بالكامل.",
+      "✔ المرافقة والبرامج السياحية اليومية المتنوعة."
+    ],
+    "includedFr": [
+      "✔ Billets d'avion aller-retour avec bagage sécurisé inclus.",
+      "✔ 9 Nuits à l'hôtel Parrotel Aqua Park Resort de haut standing.",
+      "✔ Formule All-Inclusive (Petit-déjeuner, déjeuner, dîner buffet, boissons et snacks).",
+      "✔ Transferts aéroport tout confort climatisés.",
+      "✔ Assistance continue et activités guidées magiques."
+    ],
+    "includedEn": [
+      "✔ Round-trip travel tickets with luggage checks included.",
+      "✔ 9-night stay at the luxury Parrotel Aqua Park Resort.",
+      "✔ Free breakfast, lunch, and dinner open buffet with drinks & snacks.",
+      "✔ Secure private AC airport transfers.",
+      "✔ Daily guided excursions and ongoing tour guides."
+    ],
+    "program": [
+      { "t": "زيارة SOHO Square العالمية الشهيرة", "d": "أرقى ساحات شرم الشيخ الترفيهية المشهورة بالنافورة الراقصة الملونة والأجواء المبهجة والمحلات العالمية الفاخرة." },
+      { "t": "نعمة باي Naama Bay النابض بالحيوية", "d": "قلب شرم الشيخ النابض بالمقاهي والمطاعم والممشى والأسواق المتنوعة المطلة على ساحل البحر الخلاب." },
+      { "t": "سهرة ألف ليلة وليلة الشرقية الساحرة", "d": "مشاهدة سحر التاريخ والتراث المعماري الساحد في مسرح وخبايا ألف ليلة وليلة مع عروض سينمائية وموسيقى فلوكلورية شرقية." },
+      { "t": "مغامرة الصحراء وسهرة بدوية تراثية (اختياري)", "d": "سفاري الموتورات وجيب الدفع الرباعي وسط جبال سيناء المهيبة وركوب الجمال مع وجبة عشاء بدوية تحت النجوم وسهرة شعبية." },
+      { "t": "رحلة جزيرة تيران والغطس اليرمائي (اختياري)", "d": "الإبحار إلى محمية جزيرة تيران لمشاهدة الشعاب المرجانية والغطس وتناول وجبة غداء فاخرة من ثمار البحر المشهورة." }
+    ],
+    "regNotesAr": "🛫 <b>تواريخ أفواج صيف 2026:</b> الفوج الأول: 24 جويلية / الفوج الثاني: 13 أوت / الفوج الثالث: 22 أوت.<br/>📄 <b>المتطلبات:</b> جواز سفر صالح لـ 6 أشهر + صورتين في خلفية بيضاء لتأمين الفيزا والمقعد المباشر."
+  },
+  {
+    "id": "jijel",
+    "category": "local",
+    "titleAr": "رحلة لؤلؤة الشرق جيجل وبجاية",
+    "titleFr": "Séjour Perle de l'Est Jijel & Bejaia",
+    "titleEn": "Jijel & Bejaia Eastern Pearl Stay",
+    "descAr": "عطلة مميزة تمزج بين مياه البحر الفيروزية الصافية والكهوف العجيبة ومسارات الطبيعة الجبلية الخلابة مع تنظيم دقيق مخصص لراحة العائلات تماماً.",
+    "descFr": "Des vacances idéales combinant eaux turquoise, grottes merveilleuses, et sentiers forestiers dans un encadrement familial chaleureux.",
+    "descEn": "Delightful getaway combining clear turquoise waters, miraculous grottes, and pristine green mountain parks for cozy family retreats.",
+    "price": 12500,
+    "hotelAr": "إقامة بشقق فخمة",
+    "hotelFr": "Résidences de haut standing équipé",
+    "hotelEn": "Premium Furnished Lodgings",
+    "durationAr": "6 أيام / 5 ليالٍ",
+    "durationFr": "Durée : 6 Jours / 5 Nuits",
+    "durationEn": "Duration: 6 Days / 5 Nights",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+    "badge1Ar": "⚓ مغامرات واستجمام عائلي",
+    "badge1Fr": "⚓ Aventure & Détente en Famille",
+    "badge1En": "⚓ Family Coastal Leisure & Fun",
+    "badge2Ar": "🚍 حافلة سياحية فاخرة",
+    "badge2Fr": "🚍 Bus touristique tout confort",
+    "badge2En": "🚍 Elite Airconditioned Shuttle",
+    "includedAr": [
+      "✔ النقل ذهاباً وإياباً في حافلات سياحية متكاملة التكييف.",
+      "✔ التنقل المريح والمرن بين مختلف الولايات التونسية.",
+      "✔ السكن في شقق عائلية مجهة، مكيفة وقريبة من المرافق والشط.",
+      "✔ الجولات السياحية والترفيهية المميزة طيلة مدة الرحلة."
+    ],
+    "includedFr": [
+      "✔ Transport aller-retour en bus grand tourisme climatisé.",
+      "✔ Logement confortable près de la côte.",
+      "✔ Programme quotidien de visites et d'excursions.",
+      "✔ Guide et animateur professionnels."
+    ],
+    "includedEn": [
+      "✔ Round-trip elite tourism AC bus travel.",
+      "✔ Premium family resort lodging next to clean beaches.",
+      "✔ Daily coordinated tours and sight excursions.",
+      "✔ Caring, bilingual guide of the agency."
+    ],
+    "program": [
+      { "t": "شاطئ تاسوست الهادئ", "d": "الاسترخاء والتمتع بالسباحة الممتعة طوال اليوم في مياه شاطئ تاسوست النظيفة والمثالية للعائلات." },
+      { "t": "جلسات وسهرات شاطئ كتامة", "d": "جولات ليلية متميزة جداً في كورنيش شاطئ كتامة الشهير مع السهرات العائلية المبهجة والخدمات المتوفرة." },
+      { "t": "أغوار الكهوف العجيبة الفريدة", "d": "رحلة استكشاف مذهلة لمغارات الكهوف العجيبة والتمتع بالمنحوتات الطبيعية الرائعة التي تشكلت عبر العصور." },
+      { "t": "فطور في الوادي", "d": "التمتع بفطور صباحي تقليدي شهي وصحي في قلب الطبيعة الغناء وعلى ضفاف الوادي البارد المنساب." },
+      { "t": "حديقة الحيوانات العائلية بجيجل", "d": "جولة عائلة ترفيهية مسلية لالتقاط أجمل الصور ومشاهدة أنواع الحيوانات المتنوعة والمسطحات الخضراء ومراكز الألعاب." }
+    ],
+    "regNotesAr": "🏢 <b>لأصحاب ولاية تقرت والحمّام:</b> التسجيل يكون عبر القدوم المباشر لمقر الوكالة بتبسبست (تقرت).<br/>📲 <b>لأصحاب الولايات الأخرى:</b> التسجيل سهل وسريع عن طريق إرسال الأوراق فوراً عبر تطبيق الواتساب.<br/>🚌 <b>نقطة الانطلاق:</b> الانطلاق يكون من مقر وكالة عبعوب خلف بلدية تبسبست بـ (تقرت)، مروراً بوادي سوف المشرق باتجاه تونس 🇹🇳.<br/>📄 <b>الوثائق المطلوبة للتسجيل:</b> نسخة طبق الأصل واضحة من جواز السفر الساري المفعول."
+  },
+  {
+    "id": "algiers",
+    "category": "local",
+    "titleAr": "رحلة تيبازة، العاصمة وبومرداس",
+    "titleFr": "Echappée Tipaza, Alger & Boumerdes",
+    "titleEn": "Tipaza, Algiers & Boumerdes Tour",
+    "descAr": "مزيج باهر يجمع روعة شواطئ بومرداس الصافية، والآثار الرومانية بتيبازة، مع جولات ترفيهية بقلب مدينة الجزائر للعائلات ومراكز التسوق الكبرى.",
+    "descFr": "L'alliance parfaite entre plages paradisiaques de Boumerdes, ruines antiques de Tipaza, et sorties de loisirs à Alger Centre.",
+    "descEn": "The ultimate trip blending sandy shores of Boumerdes, magnificent Roman ruins of Tipaza, and vibrant urban tours of Algiers capital.",
+    "price": 12500,
+    "hotelAr": "إقامة بفنادق ممتازة",
+    "hotelFr": "Hébergement en hôtels de qualité",
+    "hotelEn": "Cozy Approved Hotels",
+    "durationAr": "6 أيام / 5 ليالٍ",
+    "durationFr": "Durée : 6 Jours / 5 Nuits",
+    "durationEn": "Duration: 6 Days / 5 Nights",
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1200&q=80",
+    "badge1Ar": "🏢 تاريخ وحضارة وشواطئ زرقاء",
+    "badge1Fr": "🏢 Histoire, Culture & Plages Bleues",
+    "badge1En": "🏢 Heritage, History & Clear Beaches",
+    "badge2Ar": "⛱️ صيف واستجمام فاخر",
+    "badge2Fr": "⛱️ Vacances d'été prestigieuces",
+    "badge2En": "⛱️ Premium Summer Stay",
+    "includedAr": [
+      "✔ النقل ذهاباً وإياباً في حافلات سياحية متكاملة التكييف.",
+      "✔ السكن في مرقد أو فنادق عائلية مجهة، مكيفة وقريبة من المرافق.",
+      "✔ الجولات السياحية والترفيهية المميزة طيلة مدة الرحلة."
+    ],
+    "includedFr": [
+      "✔ Transport aller-retour en autocar équipé de climatisation.",
+      "✔ Hébergement spacieux dans un hôtel familial.",
+      "✔ Visites régulières de Tipaza romaine et musées s'Alger."
+    ],
+    "includedEn": [
+      "✔ Round-trip travel in comfortable climate-controlled buses.",
+      "✔ Accommodation in neat guest houses or hotels near tourist lanes.",
+      "✔ Guided tours to ancient Tipaza landmarks and major malls."
+    ],
+    "program": [
+      { "t": "روعة شواطئ بومرداس الرملية", "d": "يوم كامل ممتع بالاستجمام والسباحة في شواطئ بومرداس النظيفة المعمرة بالرمال الذهبية ومياهها الفيروزية الهادئة العائلية." },
+      { "t": "آثار تيبازة الرومانية المطلة على البحر", "d": "جولة تاريخية فريدة في الحديقة الأثرية الرومانية الشاسعة بتيبازة للاستمتاع بالحضارة العريقة المندمجة مع جمال الساحل." },
+      { "t": "قلب مدينة الجزائر بومقام الشهيد والحديقة", "d": "تخليد الذكرى بزيارة مقام الشهيد التاريخي المهيب وجولة بحديقة التجارب بالحامة والتعرف على الأشجار النادرة." },
+      { "t": "تسوّق ممتع في مراكز تجارة العاصمة", "d": "مساحة مخصصة للعائلات للتسوق الترفيهي واقتناء الهدايا التذكارية من أكبر مولات العاصمة الجزائرية." }
+    ],
+    "regNotesAr": "🏢 <b>لأصحاب ولاية تقرت والحمّام:</b> التسجيل يكون عبر القدوم المباشر لمقر الوكالة بتبسبست (تقرت).<br/>📲 <b>لأصحاب الولايات الأخرى:</b> التسجيل سهل وسريع عن طريق إرسال الأوراق فوراً عبر تطبيق الواتساب.<br/>🚌 <b>نقطة الانطلاق:</b> الانطلاق يكون من مقر وكالة عبعوب خلف بلدية تبسبست بـ (تقرت)، مروراً بوادي سوف المشرق باتجاه تونس 🇹🇳.<br/>📄 <b>الوثائق المطلوبة للتسجيل:</b> نسخة طبق الأصل واضحة من جواز السفر الساري المفعول."
+  }
+]
